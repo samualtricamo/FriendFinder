@@ -35,3 +35,5 @@ var friendsData = [
         scores: []
     },
 ]
+
+module.exports = tableArray;
