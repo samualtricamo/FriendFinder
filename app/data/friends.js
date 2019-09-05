@@ -1,4 +1,4 @@
-var friendsData = [
+var friendMatch = [
     {
         name: "Sam Tricamo",
         photo: 'https://vignette.wikia.nocookie.net/parody/images/e/e6/Tumblr_niy7qsyO0T1r573nqo1_400.png/revision/latest?cb=20181116170419',
@@ -36,4 +36,4 @@ var friendsData = [
     },
 ]
 
-module.exports = friendsData;
+module.exports = friendMatch;
